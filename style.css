@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+body {
+ background-image: url("images_landing/pink_background.png");
+ background-color: #cccccc;
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  src: url("font/SpaceMono-Bold.ttf");
+}
+
+body {
+font-family: 'Space Mono', monospace;
+}
